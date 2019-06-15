@@ -1,3 +1,10 @@
+''' OUTPUT
+1
+1 2
+1 2 3
+1 2 3 4'''
+
+
 print("task 3")
 n = int(input("enter number of rows: "))
 for i in range (1,n+1):
